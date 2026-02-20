@@ -4,7 +4,7 @@ import numpy as np
 import time
 import pickle
 from dotenv import load_dotenv
-from sklearn.metrics.pairwise import cosine_similarity
+#from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 
 from google import genai
@@ -30,6 +30,24 @@ QA_MODEL = "gemini-2.5-flash"
 DATA_FILE = "mygate_reviews_real.csv"
 EMBEDDING_FILE = "review_embeddings.pkl"
 local_embed_model = SentenceTransformer("all-MiniLM-L6-v2")
+
+
+# ----------------------------
+# Define Cosine function ( removed sklear)
+# ----------------------------
+def cosine_similarity_numpy(vec1, vec2):
+    vec1 = np.array(vec1)
+    vec2 = np.array(vec2)
+
+    dot = np.dot(vec1, vec2)
+    norm1 = np.linalg.norm(vec1)
+    norm2 = np.linalg.norm(vec2)
+
+    if norm1 == 0 or norm2 == 0:
+        return 0.0
+
+    return dot / (norm1 * norm2)
+
 
 
 # ----------------------------
@@ -218,10 +236,7 @@ def get_top_reviews(question, store, top_k=8):
     similarities = []
 
     for item in store:
-        sim = cosine_similarity(
-            [query_embedding],
-            [item["embedding"]]
-        )[0][0]
+        sim = cosine_similarity_numpy(query_embedding, review_embedding)
 
         similarities.append(sim)
 
