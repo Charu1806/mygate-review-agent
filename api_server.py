@@ -1,36 +1,44 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
-from review_agent_gemini_v2 import ask_question_with_evidence
+from review_engine import generate_answer
+import pandas as pd
 
 app = FastAPI()
 
-# Request schema
-class QuestionRequest(BaseModel):
-    question: str
-
-# Health check route
 @app.get("/")
-def root():
-    return {"status": "AI Review API running"}
+def health():
+    return {"status": "running"}
 
-# Main AI route
-@app.post("/ask")
-def ask_question(data: QuestionRequest):
+@app.get("/daily-summary")
+def daily_summary():
+    df = pd.read_csv("mygate_reviews_real.csv")
 
-    result = ask_question_with_evidence(data.question)
+    df["date"] = pd.to_datetime(df["at"], errors="coerce").dt.date
+    latest_date = df["date"].max()
+
+    latest_df = df[df["date"] == latest_date]
+
+    avg_rating = round(latest_df["score"].mean(), 2)
+    total_reviews = len(latest_df)
+    negative_pct = round((latest_df["score"] <= 2).mean() * 100, 2)
 
     return {
-        "answer": result["answer"],
-        "avg_rating": result["avg_rating"],
-        "confidence": result["confidence"],
-        "topics": result["topics"],
-        "keyword_counts": result["keyword_counts"],
-        "top_reviews": [
-            {
-                "score": r.get("score"),
-                "content": r.get("content")
-            }
-            for r in result["reviews"][:5]
-        ]
+        "date": str(latest_date),
+        "avg_rating": avg_rating,
+        "total_reviews": total_reviews,
+        "negative_percentage": negative_pct
     }
+
+@app.get("/trend")
+def topic_trend():
+    df = pd.read_csv("reviews_with_topics.csv")
+
+    df["date"] = pd.to_datetime(df["at"]).dt.date
+
+    trend = (
+        df.groupby(["date", "topic"])
+        .size()
+        .reset_index(name="count")
+    )
+
+    return trend.to_dict(orient="records")
 
