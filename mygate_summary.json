@@ -1,0 +1,12 @@
+{
+  "total_reviews": 500,
+  "avg_rating": 2.73,
+  "top_categories": {
+    "bugs": 97,
+    "feature_request": 96,
+    "notifications": 75,
+    "visitor_management": 63,
+    "payment": 41
+  },
+  "generated_at": "2026-02-13 09:00:09"
+}

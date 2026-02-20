@@ -1,0 +1,132 @@
+Last login: Fri Jan 16 10:28:48 on console
+charugupta@deepaks-MacBook-Air ~ % nano hello.py
+charugupta@deepaks-MacBook-Air ~ % nano test1.py
+charugupta@deepaks-MacBook-Air ~ % python test1.py
+zsh: command not found: python
+charugupta@deepaks-MacBook-Air ~ % python3 test1.py
+xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+charugupta@deepaks-MacBook-Air ~ % pip install -q -U google-genai
+zsh: command not found: pip
+charugupta@deepaks-MacBook-Air ~ % install pip
+usage: install [-bCcpSsUv] [-f flags] [-g group] [-m mode] [-o owner]
+               [-M log] [-D dest] [-h hash] [-T tags]
+               [-B suffix] [-l linkflags] [-N dbdir]
+               file1 file2
+       install [-bCcpSsUv] [-f flags] [-g group] [-m mode] [-o owner]
+               [-M log] [-D dest] [-h hash] [-T tags]
+               [-B suffix] [-l linkflags] [-N dbdir]
+               file1 ... fileN directory
+       install -dU [-vU] [-g group] [-m mode] [-N dbdir] [-o owner]
+               [-M log] [-D dest] [-h hash] [-T tags]
+               directory ...
+charugupta@deepaks-MacBook-Air ~ % python3 -m pip --version
+pip 21.2.4 from /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/site-packages/pip (python 3.9)
+charugupta@deepaks-MacBook-Air ~ % python3 -m pip install -q -U google-generativeai
+  WARNING: The scripts pyrsa-decrypt, pyrsa-encrypt, pyrsa-keygen, pyrsa-priv2pub, pyrsa-sign and pyrsa-verify are installed in '/Users/charugupta/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script normalizer is installed in '/Users/charugupta/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script tqdm is installed in '/Users/charugupta/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+WARNING: You are using pip version 21.2.4; however, version 26.0.1 is available.
+You should consider upgrading via the '/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip' command.
+charugupta@deepaks-MacBook-Air ~ % python3 -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/site-packages (21.2.4)
+Collecting pip
+  Downloading pip-26.0.1-py3-none-any.whl (1.8 MB)
+     |████████████████████████████████| 1.8 MB 4.2 MB/s 
+Installing collected packages: pip
+  WARNING: The scripts pip, pip3 and pip3.9 are installed in '/Users/charugupta/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed pip-26.0.1
+WARNING: You are using pip version 21.2.4; however, version 26.0.1 is available.
+You should consider upgrading via the '/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip' command.
+charugupta@deepaks-MacBook-Air ~ % python3 -m pip install -q -U google-generativeai
+charugupta@deepaks-MacBook-Air ~ % python3 test1.py                                
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/charugupta/test1.py': [Errno 2] No such file or directory
+charugupta@deepaks-MacBook-Air ~ % cd
+charugupta@deepaks-MacBook-Air ~ % 
+charugupta@deepaks-MacBook-Air ~ % dir
+zsh: command not found: dir
+charugupta@deepaks-MacBook-Air ~ % pwd
+/Users/charugupta
+charugupta@deepaks-MacBook-Air ~ % ls
+Desktop		Documents	Downloads	Library		Movies		Music		Pictures	Public		text1.py
+charugupta@deepaks-MacBook-Air ~ % cd Documents 
+charugupta@deepaks-MacBook-Air Documents % ls
+test1.py	test1.txt
+charugupta@deepaks-MacBook-Air Documents % python3 test1.py
+Traceback (most recent call last):
+  File "/Users/charugupta/Documents/test1.py", line 1, in <module>
+    from google import genai
+ImportError: cannot import name 'genai' from 'google' (unknown location)
+charugupta@deepaks-MacBook-Air Documents % nano test1.py
+
+  UW PICO 5.09                                                                                     File: test1.py                                                                                     Modified  
+
+import google.generativeai as genai
+
+client = genai.Client()
+
+response = client.models.generate_content(
+    model="gemini-3-flash-preview",
+    contents="Explain how AI works in a few words",
+)
+
+print(response.text)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                       ^O WriteOut                       ^R Read File                      ^Y Prev Pg                        ^K Cut Text                       ^C Cur Pos                        
+^X Exit                           ^J Justify                        ^W Where is                       ^V Next Pg                        ^U UnCut Text                     ^T To Spell                       
