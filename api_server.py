@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from review_engine import generate_answer
+from review_engine import ask_question_with_evidence
 import pandas as pd
 from pydantic import BaseModel
 
@@ -16,7 +16,7 @@ class QuestionRequest(BaseModel):
 
 @app.post("/ask")
 def ask_question(request: QuestionRequest):
-    result = generate_answer(request.question)
+    result = ask_question_with_evidence(request.question)
     return result
 
 @app.get("/daily-summary")
