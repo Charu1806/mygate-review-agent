@@ -1,8 +1,12 @@
 import pickle
 import numpy as np
-from google import genai
+import google.generativeai as genai
 
-client = genai.Client(api_key="YOUR_API_KEY")
+client = genai.Client(api_key="AIzaSyDJLs6g6xkniOfKyoo8Q5GX4Rq7VkyLQnY")
+
+#genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+model = genai.GenerativeModel("gemini-2.5-flash")
+
 
 # ---------- Load embeddings once ----------
 def load_store():
