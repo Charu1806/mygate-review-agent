@@ -1,0 +1,501 @@
+id,text,rating,date,version,helpful_count,source,primary_category,month
+1,Missing guest pre-approval feature. Please add!,3,2025-11-18,5.1.8,29,App Store,feature_request,2025-11
+2,Visitor management works but notifications are delayed.,3,2026-01-14,5.2.0,33,Google Play,notifications,2026-01
+3,Missing guest pre-approval feature. Please add!,3,2025-12-12,5.1.5,11,App Store,feature_request,2025-12
+4,Notifications don't work properly. Missed important visitor approvals.,2,2025-11-22,5.1.5,34,Google Play,notifications,2025-11
+5,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-01,5.1.5,41,Google Play,notifications,2025-10
+6,Too many bugs after latest update. Very slow performance.,1,2025-09-10,5.1.5,47,Google Play,bugs,2025-09
+7,Customer support is terrible. No response for days.,1,2026-01-20,5.2.1,8,App Store,staff_helpdesk,2026-01
+8,Easy to approve visitors from anywhere. Love the notifications!,4,2025-11-29,5.1.8,50,App Store,visitor_management,2025-11
+9,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-18,5.1.8,20,Google Play,bugs,2025-12
+10,Need video calling feature for visitor verification!,3,2026-02-08,5.2.0,32,Google Play,feature_request,2026-02
+11,Very useful for tracking deliveries and guests. Security is improved.,5,2026-02-11,5.2.0,40,App Store,security,2026-02
+12,Should add delivery tracking with photos. Very needed!,3,2026-02-06,5.2.1,29,Google Play,feature_request,2026-02
+13,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-30,5.1.5,5,App Store,notifications,2025-10
+14,Missing guest pre-approval feature. Please add!,3,2026-02-08,5.1.5,43,Google Play,feature_request,2026-02
+15,Good app for community living. Staff coordination is better now.,4,2025-11-01,5.1.5,48,Google Play,community,2025-11
+16,Payment issues! Getting charged twice for subscription.,1,2025-11-01,5.2.0,12,App Store,payment,2025-11
+17,Visitor management works but notifications are delayed.,3,2026-01-03,5.2.1,50,App Store,notifications,2026-01
+18,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-12,5.1.8,16,App Store,security,2025-09
+19,Payment issues! Getting charged twice for subscription.,1,2025-09-06,5.1.8,40,App Store,payment,2025-09
+20,Missing guest pre-approval feature. Please add!,3,2025-10-13,5.1.5,0,App Store,feature_request,2025-10
+21,Visitor management works but notifications are delayed.,3,2026-02-07,5.1.5,9,App Store,notifications,2026-02
+22,Customer support is terrible. No response for days.,1,2025-11-15,5.1.5,35,Google Play,staff_helpdesk,2025-11
+23,Payment issues! Getting charged twice for subscription.,1,2025-10-14,5.1.8,38,App Store,payment,2025-10
+24,Missing guest pre-approval feature. Please add!,3,2025-10-22,5.1.8,6,Google Play,feature_request,2025-10
+25,Need video calling feature for visitor verification!,3,2025-11-24,5.1.5,49,Google Play,feature_request,2025-11
+26,Need video calling feature for visitor verification!,3,2025-09-26,5.1.8,0,Google Play,feature_request,2025-09
+27,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-28,5.2.1,8,Google Play,visitor_management,2026-01
+28,App is good but crashes sometimes. Fix the bugs please.,3,2025-08-25,5.2.1,49,App Store,bugs,2025-08
+29,App is good but crashes sometimes. Fix the bugs please.,3,2025-09-06,5.1.5,26,App Store,bugs,2025-09
+30,Great app for visitor management! QR code feature works smoothly.,5,2025-08-25,5.2.0,47,Google Play,visitor_management,2025-08
+31,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-07,5.1.5,49,Google Play,notifications,2025-10
+32,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-10-06,5.2.0,7,Google Play,bugs,2025-10
+33,Customer support is terrible. No response for days.,1,2025-10-10,5.1.5,19,Google Play,staff_helpdesk,2025-10
+34,Great app for visitor management! QR code feature works smoothly.,5,2026-01-30,5.1.8,41,App Store,visitor_management,2026-01
+35,Missing guest pre-approval feature. Please add!,3,2025-09-03,5.2.1,22,App Store,feature_request,2025-09
+36,UI is confusing. Hard to find visitor history.,2,2025-12-06,5.2.1,16,Google Play,ui_ux,2025-12
+37,Customer support is terrible. No response for days.,1,2025-08-24,5.1.8,25,App Store,staff_helpdesk,2025-08
+38,Great app for visitor management! QR code feature works smoothly.,5,2025-09-03,5.2.0,0,Google Play,visitor_management,2025-09
+39,Need video calling feature for visitor verification!,3,2026-01-24,5.1.8,6,App Store,feature_request,2026-01
+40,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-26,5.2.1,0,Google Play,bugs,2025-12
+41,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-02-02,5.2.1,44,App Store,bugs,2026-02
+42,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-11,5.1.5,50,App Store,bugs,2025-12
+43,UI is confusing. Hard to find visitor history.,2,2025-10-14,5.2.0,34,Google Play,ui_ux,2025-10
+44,Payment issues! Getting charged twice for subscription.,1,2025-11-30,5.1.8,20,App Store,payment,2025-11
+45,Visitor management works but notifications are delayed.,3,2025-12-10,5.1.5,8,Google Play,notifications,2025-12
+46,Visitor management works but notifications are delayed.,3,2025-11-02,5.1.5,34,Google Play,notifications,2025-11
+47,Very useful for tracking deliveries and guests. Security is improved.,5,2025-12-13,5.1.5,20,Google Play,security,2025-12
+48,Payment issues! Getting charged twice for subscription.,1,2025-11-08,5.2.0,13,App Store,payment,2025-11
+49,Too many bugs after latest update. Very slow performance.,1,2025-12-30,5.2.1,1,Google Play,bugs,2025-12
+50,Notifications don't work properly. Missed important visitor approvals.,2,2025-11-06,5.1.5,6,Google Play,notifications,2025-11
+51,Visitor management works but notifications are delayed.,3,2025-12-08,5.1.8,29,Google Play,notifications,2025-12
+52,Notifications don't work properly. Missed important visitor approvals.,2,2025-11-28,5.2.1,43,App Store,notifications,2025-11
+53,Notifications don't work properly. Missed important visitor approvals.,2,2026-02-01,5.1.5,48,Google Play,notifications,2026-02
+54,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-11-07,5.2.1,34,App Store,bugs,2025-11
+55,Should add delivery tracking with photos. Very needed!,3,2025-12-31,5.1.8,13,App Store,feature_request,2025-12
+56,App is good but crashes sometimes. Fix the bugs please.,3,2026-02-10,5.1.5,37,Google Play,bugs,2026-02
+57,Need video calling feature for visitor verification!,3,2025-12-01,5.1.8,46,App Store,feature_request,2025-12
+58,Need video calling feature for visitor verification!,3,2025-11-26,5.1.5,30,App Store,feature_request,2025-11
+59,UI is confusing. Hard to find visitor history.,2,2025-10-17,5.1.8,41,Google Play,ui_ux,2025-10
+60,Good app for community living. Staff coordination is better now.,4,2025-10-17,5.1.5,7,App Store,community,2025-10
+61,Notifications don't work properly. Missed important visitor approvals.,2,2025-08-25,5.2.1,38,Google Play,notifications,2025-08
+62,Notifications don't work properly. Missed important visitor approvals.,2,2025-12-17,5.2.1,30,App Store,notifications,2025-12
+63,Great app for visitor management! QR code feature works smoothly.,5,2025-12-21,5.2.0,13,App Store,visitor_management,2025-12
+64,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-22,5.1.5,24,Google Play,bugs,2025-12
+65,Too many bugs after latest update. Very slow performance.,1,2025-11-01,5.1.5,35,Google Play,bugs,2025-11
+66,Should add delivery tracking with photos. Very needed!,3,2025-09-22,5.1.5,18,Google Play,feature_request,2025-09
+67,UI is confusing. Hard to find visitor history.,2,2025-12-25,5.2.0,14,Google Play,ui_ux,2025-12
+68,Need video calling feature for visitor verification!,3,2025-08-25,5.1.5,31,Google Play,feature_request,2025-08
+69,Payment issues! Getting charged twice for subscription.,1,2025-10-02,5.2.0,7,Google Play,payment,2025-10
+70,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-08-18,5.2.1,13,Google Play,bugs,2025-08
+71,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-10-07,5.1.5,44,App Store,bugs,2025-10
+72,Too many bugs after latest update. Very slow performance.,1,2026-01-08,5.1.8,23,Google Play,bugs,2026-01
+73,Missing guest pre-approval feature. Please add!,3,2025-12-30,5.1.5,10,App Store,feature_request,2025-12
+74,Missing guest pre-approval feature. Please add!,3,2026-01-16,5.2.1,38,App Store,feature_request,2026-01
+75,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-21,5.1.8,9,Google Play,notifications,2026-01
+76,UI is confusing. Hard to find visitor history.,2,2026-01-17,5.2.1,41,Google Play,ui_ux,2026-01
+77,App is good but crashes sometimes. Fix the bugs please.,3,2025-08-23,5.1.5,0,Google Play,bugs,2025-08
+78,Easy to approve visitors from anywhere. Love the notifications!,4,2025-10-15,5.1.8,24,App Store,visitor_management,2025-10
+79,Should add delivery tracking with photos. Very needed!,3,2025-12-05,5.2.0,30,Google Play,feature_request,2025-12
+80,Good app for community living. Staff coordination is better now.,4,2026-01-15,5.2.1,6,Google Play,community,2026-01
+81,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-12,5.2.1,5,App Store,notifications,2025-09
+82,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-11-19,5.1.5,37,App Store,bugs,2025-11
+83,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-09-06,5.1.8,49,App Store,bugs,2025-09
+84,Customer support is terrible. No response for days.,1,2025-12-08,5.2.1,24,Google Play,staff_helpdesk,2025-12
+85,Easy to approve visitors from anywhere. Love the notifications!,4,2025-12-03,5.1.8,31,Google Play,visitor_management,2025-12
+86,Very useful for tracking deliveries and guests. Security is improved.,5,2025-12-12,5.2.1,22,Google Play,security,2025-12
+87,Customer support is terrible. No response for days.,1,2026-01-21,5.2.1,42,App Store,staff_helpdesk,2026-01
+88,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-28,5.2.0,43,Google Play,security,2025-09
+89,Need video calling feature for visitor verification!,3,2025-11-28,5.1.8,10,App Store,feature_request,2025-11
+90,Very useful for tracking deliveries and guests. Security is improved.,5,2025-08-22,5.2.1,36,Google Play,security,2025-08
+91,Easy to approve visitors from anywhere. Love the notifications!,4,2025-12-04,5.2.1,4,Google Play,visitor_management,2025-12
+92,Too many bugs after latest update. Very slow performance.,1,2025-12-28,5.2.0,41,App Store,bugs,2025-12
+93,Visitor management works but notifications are delayed.,3,2025-10-26,5.1.5,14,Google Play,notifications,2025-10
+94,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-09-07,5.2.0,26,App Store,bugs,2025-09
+95,Payment issues! Getting charged twice for subscription.,1,2025-11-08,5.2.1,5,App Store,payment,2025-11
+96,Too many bugs after latest update. Very slow performance.,1,2025-11-29,5.2.1,1,App Store,bugs,2025-11
+97,Good app for community living. Staff coordination is better now.,4,2025-09-19,5.1.8,22,App Store,community,2025-09
+98,Need video calling feature for visitor verification!,3,2025-08-27,5.1.5,1,App Store,feature_request,2025-08
+99,Visitor management works but notifications are delayed.,3,2025-09-05,5.2.0,27,App Store,notifications,2025-09
+100,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-22,5.1.8,7,Google Play,security,2025-09
+101,App is good but crashes sometimes. Fix the bugs please.,3,2025-08-23,5.1.8,14,Google Play,bugs,2025-08
+102,Payment issues! Getting charged twice for subscription.,1,2025-11-18,5.2.1,47,App Store,payment,2025-11
+103,UI is confusing. Hard to find visitor history.,2,2025-10-07,5.2.1,4,Google Play,ui_ux,2025-10
+104,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-02,5.2.1,23,Google Play,notifications,2025-10
+105,Payment issues! Getting charged twice for subscription.,1,2025-08-24,5.2.1,12,Google Play,payment,2025-08
+106,UI is confusing. Hard to find visitor history.,2,2025-12-23,5.1.5,50,App Store,ui_ux,2025-12
+107,Visitor management works but notifications are delayed.,3,2025-11-03,5.2.0,43,Google Play,notifications,2025-11
+108,Easy to approve visitors from anywhere. Love the notifications!,4,2025-11-27,5.2.0,27,Google Play,visitor_management,2025-11
+109,UI is confusing. Hard to find visitor history.,2,2026-01-18,5.1.8,15,Google Play,ui_ux,2026-01
+110,Payment issues! Getting charged twice for subscription.,1,2025-11-18,5.2.1,15,App Store,payment,2025-11
+111,Notifications don't work properly. Missed important visitor approvals.,2,2025-12-24,5.2.1,38,Google Play,notifications,2025-12
+112,Good app for community living. Staff coordination is better now.,4,2025-12-03,5.2.1,4,App Store,community,2025-12
+113,Notifications don't work properly. Missed important visitor approvals.,2,2026-02-08,5.1.5,1,Google Play,notifications,2026-02
+114,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-11-09,5.2.0,8,Google Play,bugs,2025-11
+115,Very useful for tracking deliveries and guests. Security is improved.,5,2025-12-07,5.2.0,45,Google Play,security,2025-12
+116,Need video calling feature for visitor verification!,3,2025-08-28,5.2.0,17,Google Play,feature_request,2025-08
+117,Too many bugs after latest update. Very slow performance.,1,2025-12-24,5.2.1,42,Google Play,bugs,2025-12
+118,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-28,5.1.8,38,App Store,bugs,2025-12
+119,Need video calling feature for visitor verification!,3,2026-02-13,5.2.1,0,App Store,feature_request,2026-02
+120,Great app for visitor management! QR code feature works smoothly.,5,2025-12-05,5.2.1,22,Google Play,visitor_management,2025-12
+121,Should add delivery tracking with photos. Very needed!,3,2026-01-17,5.1.5,49,App Store,feature_request,2026-01
+122,Payment issues! Getting charged twice for subscription.,1,2025-09-24,5.1.8,7,Google Play,payment,2025-09
+123,Visitor management works but notifications are delayed.,3,2026-01-06,5.2.0,8,App Store,notifications,2026-01
+124,Payment issues! Getting charged twice for subscription.,1,2026-01-18,5.1.8,49,App Store,payment,2026-01
+125,Payment issues! Getting charged twice for subscription.,1,2026-01-27,5.2.0,43,App Store,payment,2026-01
+126,UI is confusing. Hard to find visitor history.,2,2025-09-01,5.2.1,6,Google Play,ui_ux,2025-09
+127,Missing guest pre-approval feature. Please add!,3,2025-10-01,5.2.0,34,Google Play,feature_request,2025-10
+128,Missing guest pre-approval feature. Please add!,3,2025-09-13,5.1.5,39,Google Play,feature_request,2025-09
+129,Need video calling feature for visitor verification!,3,2025-09-01,5.1.5,26,App Store,feature_request,2025-09
+130,Need video calling feature for visitor verification!,3,2026-02-13,5.2.1,32,Google Play,feature_request,2026-02
+131,Missing guest pre-approval feature. Please add!,3,2025-11-21,5.1.5,4,Google Play,feature_request,2025-11
+132,Should add delivery tracking with photos. Very needed!,3,2026-01-28,5.1.8,23,App Store,feature_request,2026-01
+133,Missing guest pre-approval feature. Please add!,3,2025-10-11,5.2.1,15,App Store,feature_request,2025-10
+134,Visitor management works but notifications are delayed.,3,2026-01-29,5.1.8,29,Google Play,notifications,2026-01
+135,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-09,5.2.0,34,Google Play,security,2025-09
+136,UI is confusing. Hard to find visitor history.,2,2025-12-11,5.1.5,44,Google Play,ui_ux,2025-12
+137,Customer support is terrible. No response for days.,1,2025-08-24,5.2.1,4,Google Play,staff_helpdesk,2025-08
+138,Very useful for tracking deliveries and guests. Security is improved.,5,2025-12-25,5.1.8,5,Google Play,security,2025-12
+139,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-12,5.1.5,1,Google Play,notifications,2025-09
+140,App is good but crashes sometimes. Fix the bugs please.,3,2025-10-02,5.1.5,50,App Store,bugs,2025-10
+141,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-18,5.1.5,37,Google Play,security,2025-09
+142,Great app for visitor management! QR code feature works smoothly.,5,2025-09-28,5.2.0,4,App Store,visitor_management,2025-09
+143,UI is confusing. Hard to find visitor history.,2,2025-12-28,5.2.1,25,Google Play,ui_ux,2025-12
+144,Customer support is terrible. No response for days.,1,2026-01-27,5.1.8,3,App Store,staff_helpdesk,2026-01
+145,Very useful for tracking deliveries and guests. Security is improved.,5,2025-10-07,5.1.5,15,Google Play,security,2025-10
+146,Great app for visitor management! QR code feature works smoothly.,5,2025-12-31,5.2.1,5,Google Play,visitor_management,2025-12
+147,Missing guest pre-approval feature. Please add!,3,2025-10-19,5.2.1,42,App Store,feature_request,2025-10
+148,UI is confusing. Hard to find visitor history.,2,2025-12-18,5.2.1,33,Google Play,ui_ux,2025-12
+149,Need video calling feature for visitor verification!,3,2026-02-08,5.2.1,18,Google Play,feature_request,2026-02
+150,Customer support is terrible. No response for days.,1,2025-10-19,5.1.8,2,Google Play,staff_helpdesk,2025-10
+151,Missing guest pre-approval feature. Please add!,3,2025-11-05,5.2.1,21,Google Play,feature_request,2025-11
+152,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-13,5.1.8,10,App Store,notifications,2026-01
+153,Customer support is terrible. No response for days.,1,2026-02-04,5.1.5,25,App Store,staff_helpdesk,2026-02
+154,Very useful for tracking deliveries and guests. Security is improved.,5,2026-01-09,5.2.0,15,Google Play,security,2026-01
+155,UI is confusing. Hard to find visitor history.,2,2025-09-03,5.1.5,50,App Store,ui_ux,2025-09
+156,Too many bugs after latest update. Very slow performance.,1,2026-01-11,5.1.8,1,App Store,bugs,2026-01
+157,Visitor management works but notifications are delayed.,3,2026-01-12,5.2.0,47,App Store,notifications,2026-01
+158,Very useful for tracking deliveries and guests. Security is improved.,5,2025-11-28,5.2.1,36,App Store,security,2025-11
+159,Notifications don't work properly. Missed important visitor approvals.,2,2026-02-12,5.2.0,10,Google Play,notifications,2026-02
+160,UI is confusing. Hard to find visitor history.,2,2026-01-22,5.1.8,8,App Store,ui_ux,2026-01
+161,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-08-23,5.2.1,38,App Store,bugs,2025-08
+162,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-11-02,5.2.0,9,Google Play,bugs,2025-11
+163,UI is confusing. Hard to find visitor history.,2,2025-11-30,5.2.1,30,Google Play,ui_ux,2025-11
+164,App is good but crashes sometimes. Fix the bugs please.,3,2026-02-06,5.2.1,46,Google Play,bugs,2026-02
+165,Should add delivery tracking with photos. Very needed!,3,2026-02-13,5.2.0,42,App Store,feature_request,2026-02
+166,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-12-28,5.1.8,0,Google Play,bugs,2025-12
+167,App is good but crashes sometimes. Fix the bugs please.,3,2025-10-11,5.1.5,8,Google Play,bugs,2025-10
+168,Very useful for tracking deliveries and guests. Security is improved.,5,2025-10-30,5.1.8,38,App Store,security,2025-10
+169,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-17,5.1.8,14,App Store,notifications,2026-01
+170,Should add delivery tracking with photos. Very needed!,3,2025-12-03,5.2.0,4,Google Play,feature_request,2025-12
+171,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-15,5.1.8,19,App Store,bugs,2025-12
+172,UI is confusing. Hard to find visitor history.,2,2025-11-01,5.2.0,46,Google Play,ui_ux,2025-11
+173,Very useful for tracking deliveries and guests. Security is improved.,5,2026-02-05,5.1.8,35,App Store,security,2026-02
+174,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-19,5.1.8,23,Google Play,security,2025-09
+175,Should add delivery tracking with photos. Very needed!,3,2025-12-21,5.1.8,42,Google Play,feature_request,2025-12
+176,Customer support is terrible. No response for days.,1,2026-01-30,5.2.1,36,App Store,staff_helpdesk,2026-01
+177,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-10-17,5.1.8,13,App Store,bugs,2025-10
+178,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-28,5.2.1,19,App Store,security,2025-09
+179,Very useful for tracking deliveries and guests. Security is improved.,5,2025-08-17,5.1.8,16,App Store,security,2025-08
+180,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-08,5.1.5,26,App Store,notifications,2025-10
+181,Good app for community living. Staff coordination is better now.,4,2025-10-07,5.1.8,0,Google Play,community,2025-10
+182,Need video calling feature for visitor verification!,3,2025-12-16,5.1.5,11,Google Play,feature_request,2025-12
+183,Great app for visitor management! QR code feature works smoothly.,5,2026-01-07,5.2.1,23,App Store,visitor_management,2026-01
+184,Very useful for tracking deliveries and guests. Security is improved.,5,2025-12-11,5.1.5,35,Google Play,security,2025-12
+185,Need video calling feature for visitor verification!,3,2026-01-19,5.2.1,48,App Store,feature_request,2026-01
+186,Should add delivery tracking with photos. Very needed!,3,2025-10-24,5.2.0,4,App Store,feature_request,2025-10
+187,UI is confusing. Hard to find visitor history.,2,2025-10-10,5.1.8,42,App Store,ui_ux,2025-10
+188,Great app for visitor management! QR code feature works smoothly.,5,2025-11-13,5.1.5,38,App Store,visitor_management,2025-11
+189,Should add delivery tracking with photos. Very needed!,3,2026-01-16,5.1.8,13,App Store,feature_request,2026-01
+190,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-03,5.2.1,43,Google Play,security,2025-09
+191,UI is confusing. Hard to find visitor history.,2,2025-11-09,5.2.1,50,Google Play,ui_ux,2025-11
+192,Customer support is terrible. No response for days.,1,2025-10-29,5.2.1,28,App Store,staff_helpdesk,2025-10
+193,Great app for visitor management! QR code feature works smoothly.,5,2025-11-11,5.1.8,34,App Store,visitor_management,2025-11
+194,App is good but crashes sometimes. Fix the bugs please.,3,2025-10-10,5.1.5,40,App Store,bugs,2025-10
+195,Missing guest pre-approval feature. Please add!,3,2026-02-08,5.2.1,10,Google Play,feature_request,2026-02
+196,Missing guest pre-approval feature. Please add!,3,2026-01-06,5.2.1,23,Google Play,feature_request,2026-01
+197,Missing guest pre-approval feature. Please add!,3,2025-12-28,5.2.0,30,App Store,feature_request,2025-12
+198,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-10-26,5.2.1,7,Google Play,bugs,2025-10
+199,Good app for community living. Staff coordination is better now.,4,2026-01-10,5.2.0,5,Google Play,community,2026-01
+200,Very useful for tracking deliveries and guests. Security is improved.,5,2026-01-15,5.2.0,44,Google Play,security,2026-01
+201,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-01-22,5.2.0,29,App Store,bugs,2026-01
+202,Should add delivery tracking with photos. Very needed!,3,2025-12-03,5.1.8,49,Google Play,feature_request,2025-12
+203,Need video calling feature for visitor verification!,3,2025-09-22,5.2.1,37,Google Play,feature_request,2025-09
+204,Should add delivery tracking with photos. Very needed!,3,2026-01-14,5.2.0,36,App Store,feature_request,2026-01
+205,Should add delivery tracking with photos. Very needed!,3,2025-11-27,5.1.5,0,Google Play,feature_request,2025-11
+206,Too many bugs after latest update. Very slow performance.,1,2025-08-31,5.1.5,9,App Store,bugs,2025-08
+207,App is good but crashes sometimes. Fix the bugs please.,3,2025-11-30,5.1.5,3,Google Play,bugs,2025-11
+208,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-22,5.2.1,9,Google Play,notifications,2025-09
+209,Too many bugs after latest update. Very slow performance.,1,2025-12-04,5.2.1,42,App Store,bugs,2025-12
+210,Too many bugs after latest update. Very slow performance.,1,2025-12-22,5.2.1,33,Google Play,bugs,2025-12
+211,App is good but crashes sometimes. Fix the bugs please.,3,2025-08-22,5.2.1,48,App Store,bugs,2025-08
+212,App is good but crashes sometimes. Fix the bugs please.,3,2025-10-14,5.2.1,6,App Store,bugs,2025-10
+213,Missing guest pre-approval feature. Please add!,3,2025-12-24,5.2.1,16,Google Play,feature_request,2025-12
+214,Easy to approve visitors from anywhere. Love the notifications!,4,2025-08-25,5.2.1,6,App Store,visitor_management,2025-08
+215,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-12,5.1.8,24,App Store,visitor_management,2026-01
+216,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-08-30,5.1.8,43,Google Play,bugs,2025-08
+217,UI is confusing. Hard to find visitor history.,2,2025-12-08,5.1.5,2,App Store,ui_ux,2025-12
+218,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-18,5.2.0,30,App Store,notifications,2025-09
+219,Payment issues! Getting charged twice for subscription.,1,2025-10-11,5.1.8,1,App Store,payment,2025-10
+220,Should add delivery tracking with photos. Very needed!,3,2026-02-04,5.1.8,45,App Store,feature_request,2026-02
+221,Need video calling feature for visitor verification!,3,2025-10-08,5.2.0,8,Google Play,feature_request,2025-10
+222,Need video calling feature for visitor verification!,3,2025-12-23,5.1.8,50,App Store,feature_request,2025-12
+223,Too many bugs after latest update. Very slow performance.,1,2026-02-03,5.2.0,1,Google Play,bugs,2026-02
+224,Visitor management works but notifications are delayed.,3,2025-09-11,5.1.8,23,Google Play,notifications,2025-09
+225,Very useful for tracking deliveries and guests. Security is improved.,5,2025-08-23,5.1.5,36,Google Play,security,2025-08
+226,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-12-18,5.2.1,45,App Store,bugs,2025-12
+227,Good app for community living. Staff coordination is better now.,4,2025-12-25,5.2.1,11,Google Play,community,2025-12
+228,Need video calling feature for visitor verification!,3,2025-09-08,5.1.8,0,Google Play,feature_request,2025-09
+229,Very useful for tracking deliveries and guests. Security is improved.,5,2026-02-08,5.2.0,10,Google Play,security,2026-02
+230,Great app for visitor management! QR code feature works smoothly.,5,2025-09-28,5.2.1,45,Google Play,visitor_management,2025-09
+231,UI is confusing. Hard to find visitor history.,2,2025-12-20,5.2.1,50,Google Play,ui_ux,2025-12
+232,Very useful for tracking deliveries and guests. Security is improved.,5,2026-01-02,5.2.1,13,App Store,security,2026-01
+233,Great app for visitor management! QR code feature works smoothly.,5,2026-01-20,5.2.1,48,Google Play,visitor_management,2026-01
+234,Need video calling feature for visitor verification!,3,2025-09-15,5.2.1,4,Google Play,feature_request,2025-09
+235,UI is confusing. Hard to find visitor history.,2,2025-09-27,5.2.0,18,Google Play,ui_ux,2025-09
+236,Very useful for tracking deliveries and guests. Security is improved.,5,2026-02-12,5.2.0,15,App Store,security,2026-02
+237,Payment issues! Getting charged twice for subscription.,1,2025-10-13,5.1.5,14,Google Play,payment,2025-10
+238,Easy to approve visitors from anywhere. Love the notifications!,4,2025-09-10,5.1.5,16,Google Play,visitor_management,2025-09
+239,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-01-30,5.1.8,16,App Store,bugs,2026-01
+240,Missing guest pre-approval feature. Please add!,3,2025-09-20,5.1.8,13,App Store,feature_request,2025-09
+241,Payment issues! Getting charged twice for subscription.,1,2026-01-20,5.2.0,42,App Store,payment,2026-01
+242,Very useful for tracking deliveries and guests. Security is improved.,5,2026-02-07,5.2.0,5,App Store,security,2026-02
+243,Good app for community living. Staff coordination is better now.,4,2026-01-01,5.1.5,45,Google Play,community,2026-01
+244,Notifications don't work properly. Missed important visitor approvals.,2,2025-08-26,5.1.5,28,App Store,notifications,2025-08
+245,Payment issues! Getting charged twice for subscription.,1,2025-12-04,5.2.0,47,App Store,payment,2025-12
+246,Visitor management works but notifications are delayed.,3,2026-01-22,5.1.5,28,Google Play,notifications,2026-01
+247,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-09,5.2.1,15,App Store,bugs,2025-12
+248,Customer support is terrible. No response for days.,1,2025-10-05,5.1.8,48,Google Play,staff_helpdesk,2025-10
+249,Visitor management works but notifications are delayed.,3,2026-01-09,5.1.5,36,App Store,notifications,2026-01
+250,Good app for community living. Staff coordination is better now.,4,2025-12-10,5.1.5,5,Google Play,community,2025-12
+251,UI is confusing. Hard to find visitor history.,2,2026-01-05,5.2.0,31,App Store,ui_ux,2026-01
+252,Need video calling feature for visitor verification!,3,2025-08-28,5.2.0,25,App Store,feature_request,2025-08
+253,Need video calling feature for visitor verification!,3,2025-09-19,5.1.5,24,Google Play,feature_request,2025-09
+254,Easy to approve visitors from anywhere. Love the notifications!,4,2026-02-03,5.1.5,16,App Store,visitor_management,2026-02
+255,Too many bugs after latest update. Very slow performance.,1,2025-09-04,5.1.5,41,Google Play,bugs,2025-09
+256,Should add delivery tracking with photos. Very needed!,3,2026-02-02,5.1.5,45,App Store,feature_request,2026-02
+257,Good app for community living. Staff coordination is better now.,4,2025-12-09,5.1.8,10,App Store,community,2025-12
+258,Need video calling feature for visitor verification!,3,2025-11-19,5.1.8,12,App Store,feature_request,2025-11
+259,Very useful for tracking deliveries and guests. Security is improved.,5,2025-10-11,5.1.8,39,App Store,security,2025-10
+260,Should add delivery tracking with photos. Very needed!,3,2025-12-22,5.2.1,24,App Store,feature_request,2025-12
+261,Good app for community living. Staff coordination is better now.,4,2025-11-01,5.1.8,49,Google Play,community,2025-11
+262,App is good but crashes sometimes. Fix the bugs please.,3,2025-08-20,5.2.0,49,Google Play,bugs,2025-08
+263,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-30,5.2.1,23,Google Play,bugs,2025-12
+264,App is good but crashes sometimes. Fix the bugs please.,3,2025-10-20,5.1.8,17,Google Play,bugs,2025-10
+265,App is good but crashes sometimes. Fix the bugs please.,3,2025-11-21,5.1.5,20,App Store,bugs,2025-11
+266,Customer support is terrible. No response for days.,1,2025-11-05,5.2.0,13,Google Play,staff_helpdesk,2025-11
+267,Too many bugs after latest update. Very slow performance.,1,2025-12-18,5.1.8,14,Google Play,bugs,2025-12
+268,UI is confusing. Hard to find visitor history.,2,2025-10-09,5.1.8,17,Google Play,ui_ux,2025-10
+269,Should add delivery tracking with photos. Very needed!,3,2026-01-20,5.2.1,30,Google Play,feature_request,2026-01
+270,Too many bugs after latest update. Very slow performance.,1,2025-12-28,5.1.5,45,Google Play,bugs,2025-12
+271,Notifications don't work properly. Missed important visitor approvals.,2,2025-12-20,5.1.5,49,Google Play,notifications,2025-12
+272,Too many bugs after latest update. Very slow performance.,1,2025-12-13,5.1.5,22,App Store,bugs,2025-12
+273,Payment issues! Getting charged twice for subscription.,1,2026-01-14,5.2.0,16,App Store,payment,2026-01
+274,Too many bugs after latest update. Very slow performance.,1,2025-10-07,5.2.1,28,Google Play,bugs,2025-10
+275,Very useful for tracking deliveries and guests. Security is improved.,5,2025-10-14,5.1.8,8,App Store,security,2025-10
+276,Need video calling feature for visitor verification!,3,2025-10-25,5.1.5,20,App Store,feature_request,2025-10
+277,Missing guest pre-approval feature. Please add!,3,2025-10-16,5.1.5,14,App Store,feature_request,2025-10
+278,Missing guest pre-approval feature. Please add!,3,2025-10-17,5.2.0,29,App Store,feature_request,2025-10
+279,Need video calling feature for visitor verification!,3,2026-01-10,5.2.0,15,App Store,feature_request,2026-01
+280,App is good but crashes sometimes. Fix the bugs please.,3,2025-09-18,5.1.5,48,Google Play,bugs,2025-09
+281,Good app for community living. Staff coordination is better now.,4,2025-09-13,5.1.5,43,App Store,community,2025-09
+282,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-03,5.2.0,47,App Store,notifications,2025-10
+283,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-07,5.1.5,29,Google Play,notifications,2026-01
+284,Easy to approve visitors from anywhere. Love the notifications!,4,2025-12-03,5.1.5,25,Google Play,visitor_management,2025-12
+285,Need video calling feature for visitor verification!,3,2025-09-13,5.1.8,43,App Store,feature_request,2025-09
+286,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-12,5.1.8,23,App Store,visitor_management,2026-01
+287,App is good but crashes sometimes. Fix the bugs please.,3,2025-08-18,5.1.5,47,Google Play,bugs,2025-08
+288,Should add delivery tracking with photos. Very needed!,3,2025-10-10,5.1.8,22,App Store,feature_request,2025-10
+289,Need video calling feature for visitor verification!,3,2025-09-10,5.1.5,20,App Store,feature_request,2025-09
+290,Missing guest pre-approval feature. Please add!,3,2025-09-22,5.2.0,3,Google Play,feature_request,2025-09
+291,Very useful for tracking deliveries and guests. Security is improved.,5,2025-08-22,5.1.5,19,App Store,security,2025-08
+292,Customer support is terrible. No response for days.,1,2025-10-04,5.2.0,41,Google Play,staff_helpdesk,2025-10
+293,Should add delivery tracking with photos. Very needed!,3,2025-11-24,5.2.1,44,App Store,feature_request,2025-11
+294,Easy to approve visitors from anywhere. Love the notifications!,4,2025-12-01,5.2.1,46,Google Play,visitor_management,2025-12
+295,Visitor management works but notifications are delayed.,3,2025-12-31,5.1.5,14,Google Play,notifications,2025-12
+296,Easy to approve visitors from anywhere. Love the notifications!,4,2025-10-24,5.2.1,38,Google Play,visitor_management,2025-10
+297,Payment issues! Getting charged twice for subscription.,1,2026-01-30,5.1.5,8,App Store,payment,2026-01
+298,Visitor management works but notifications are delayed.,3,2025-12-10,5.1.5,0,Google Play,notifications,2025-12
+299,Good app for community living. Staff coordination is better now.,4,2025-11-07,5.1.8,33,Google Play,community,2025-11
+300,Good app for community living. Staff coordination is better now.,4,2026-01-11,5.1.8,20,App Store,community,2026-01
+301,Payment issues! Getting charged twice for subscription.,1,2025-10-06,5.1.8,5,Google Play,payment,2025-10
+302,Notifications don't work properly. Missed important visitor approvals.,2,2025-11-23,5.2.0,28,App Store,notifications,2025-11
+303,Should add delivery tracking with photos. Very needed!,3,2025-12-25,5.2.1,12,App Store,feature_request,2025-12
+304,Very useful for tracking deliveries and guests. Security is improved.,5,2025-08-27,5.2.1,13,App Store,security,2025-08
+305,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-31,5.1.8,0,Google Play,visitor_management,2026-01
+306,Very useful for tracking deliveries and guests. Security is improved.,5,2026-01-25,5.2.1,37,Google Play,security,2026-01
+307,Great app for visitor management! QR code feature works smoothly.,5,2025-09-01,5.1.5,45,Google Play,visitor_management,2025-09
+308,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-01-15,5.1.5,26,Google Play,bugs,2026-01
+309,Notifications don't work properly. Missed important visitor approvals.,2,2025-08-30,5.2.1,20,Google Play,notifications,2025-08
+310,Easy to approve visitors from anywhere. Love the notifications!,4,2025-09-26,5.1.5,39,App Store,visitor_management,2025-09
+311,Very useful for tracking deliveries and guests. Security is improved.,5,2025-09-30,5.2.0,18,Google Play,security,2025-09
+312,UI is confusing. Hard to find visitor history.,2,2026-02-06,5.2.1,16,Google Play,ui_ux,2026-02
+313,Visitor management works but notifications are delayed.,3,2026-01-18,5.2.0,1,Google Play,notifications,2026-01
+314,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-09-29,5.2.0,12,Google Play,bugs,2025-09
+315,Easy to approve visitors from anywhere. Love the notifications!,4,2025-12-20,5.2.0,18,App Store,visitor_management,2025-12
+316,Too many bugs after latest update. Very slow performance.,1,2025-12-01,5.1.8,10,Google Play,bugs,2025-12
+317,Visitor management works but notifications are delayed.,3,2025-10-18,5.1.8,15,App Store,notifications,2025-10
+318,UI is confusing. Hard to find visitor history.,2,2025-08-24,5.1.8,4,App Store,ui_ux,2025-08
+319,Very useful for tracking deliveries and guests. Security is improved.,5,2025-08-28,5.1.8,1,App Store,security,2025-08
+320,Visitor management works but notifications are delayed.,3,2025-10-04,5.1.5,27,App Store,notifications,2025-10
+321,App is good but crashes sometimes. Fix the bugs please.,3,2025-08-23,5.1.8,49,Google Play,bugs,2025-08
+322,Too many bugs after latest update. Very slow performance.,1,2026-01-02,5.1.8,36,Google Play,bugs,2026-01
+323,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-01-27,5.1.8,22,Google Play,bugs,2026-01
+324,Easy to approve visitors from anywhere. Love the notifications!,4,2025-10-17,5.1.8,25,Google Play,visitor_management,2025-10
+325,UI is confusing. Hard to find visitor history.,2,2025-11-11,5.2.0,38,App Store,ui_ux,2025-11
+326,Great app for visitor management! QR code feature works smoothly.,5,2025-12-29,5.1.8,3,Google Play,visitor_management,2025-12
+327,Visitor management works but notifications are delayed.,3,2026-02-06,5.1.5,4,App Store,notifications,2026-02
+328,Visitor management works but notifications are delayed.,3,2026-01-23,5.1.5,33,Google Play,notifications,2026-01
+329,Should add delivery tracking with photos. Very needed!,3,2026-02-10,5.1.5,23,App Store,feature_request,2026-02
+330,Visitor management works but notifications are delayed.,3,2025-08-24,5.1.5,10,Google Play,notifications,2025-08
+331,Payment issues! Getting charged twice for subscription.,1,2026-01-31,5.1.5,30,Google Play,payment,2026-01
+332,Payment issues! Getting charged twice for subscription.,1,2025-11-03,5.2.0,15,Google Play,payment,2025-11
+333,Easy to approve visitors from anywhere. Love the notifications!,4,2025-11-30,5.2.0,8,App Store,visitor_management,2025-11
+334,UI is confusing. Hard to find visitor history.,2,2025-09-12,5.2.1,41,Google Play,ui_ux,2025-09
+335,Payment issues! Getting charged twice for subscription.,1,2025-12-10,5.1.8,19,Google Play,payment,2025-12
+336,Good app for community living. Staff coordination is better now.,4,2026-01-31,5.2.0,18,Google Play,community,2026-01
+337,Good app for community living. Staff coordination is better now.,4,2025-12-23,5.2.1,42,Google Play,community,2025-12
+338,Good app for community living. Staff coordination is better now.,4,2025-10-22,5.1.8,12,Google Play,community,2025-10
+339,Very useful for tracking deliveries and guests. Security is improved.,5,2025-11-27,5.2.0,39,Google Play,security,2025-11
+340,Too many bugs after latest update. Very slow performance.,1,2025-10-07,5.2.1,44,Google Play,bugs,2025-10
+341,Too many bugs after latest update. Very slow performance.,1,2025-11-16,5.1.5,39,Google Play,bugs,2025-11
+342,Visitor management works but notifications are delayed.,3,2025-11-14,5.2.1,41,App Store,notifications,2025-11
+343,Easy to approve visitors from anywhere. Love the notifications!,4,2026-02-04,5.1.5,0,App Store,visitor_management,2026-02
+344,App is good but crashes sometimes. Fix the bugs please.,3,2025-11-18,5.2.0,17,App Store,bugs,2025-11
+345,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-08-21,5.1.5,35,App Store,bugs,2025-08
+346,Great app for visitor management! QR code feature works smoothly.,5,2025-11-13,5.1.8,40,App Store,visitor_management,2025-11
+347,Visitor management works but notifications are delayed.,3,2025-09-10,5.1.8,33,Google Play,notifications,2025-09
+348,Payment issues! Getting charged twice for subscription.,1,2025-11-27,5.2.1,13,Google Play,payment,2025-11
+349,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-08,5.1.5,6,Google Play,notifications,2026-01
+350,Missing guest pre-approval feature. Please add!,3,2025-11-29,5.2.1,45,App Store,feature_request,2025-11
+351,Customer support is terrible. No response for days.,1,2026-02-03,5.2.0,15,Google Play,staff_helpdesk,2026-02
+352,Too many bugs after latest update. Very slow performance.,1,2025-10-15,5.1.8,39,App Store,bugs,2025-10
+353,UI is confusing. Hard to find visitor history.,2,2025-12-04,5.2.0,15,App Store,ui_ux,2025-12
+354,Should add delivery tracking with photos. Very needed!,3,2025-12-21,5.1.5,35,Google Play,feature_request,2025-12
+355,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-01-20,5.2.0,9,App Store,bugs,2026-01
+356,UI is confusing. Hard to find visitor history.,2,2025-10-02,5.1.5,13,App Store,ui_ux,2025-10
+357,Payment issues! Getting charged twice for subscription.,1,2026-01-24,5.1.8,39,Google Play,payment,2026-01
+358,Too many bugs after latest update. Very slow performance.,1,2026-01-21,5.2.1,21,App Store,bugs,2026-01
+359,Easy to approve visitors from anywhere. Love the notifications!,4,2025-09-13,5.2.0,6,App Store,visitor_management,2025-09
+360,Payment issues! Getting charged twice for subscription.,1,2026-01-28,5.2.1,27,App Store,payment,2026-01
+361,App is good but crashes sometimes. Fix the bugs please.,3,2026-01-03,5.1.8,31,Google Play,bugs,2026-01
+362,Should add delivery tracking with photos. Very needed!,3,2025-10-29,5.2.0,37,Google Play,feature_request,2025-10
+363,Too many bugs after latest update. Very slow performance.,1,2026-01-24,5.2.1,4,Google Play,bugs,2026-01
+364,App is good but crashes sometimes. Fix the bugs please.,3,2025-09-20,5.1.5,34,Google Play,bugs,2025-09
+365,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-12-04,5.1.5,41,App Store,bugs,2025-12
+366,Missing guest pre-approval feature. Please add!,3,2025-10-02,5.1.5,26,App Store,feature_request,2025-10
+367,Easy to approve visitors from anywhere. Love the notifications!,4,2025-10-29,5.1.8,34,App Store,visitor_management,2025-10
+368,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-22,5.2.1,43,App Store,visitor_management,2026-01
+369,Great app for visitor management! QR code feature works smoothly.,5,2025-09-08,5.1.8,32,Google Play,visitor_management,2025-09
+370,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-06,5.1.8,36,Google Play,notifications,2025-09
+371,App is good but crashes sometimes. Fix the bugs please.,3,2025-09-03,5.2.1,7,Google Play,bugs,2025-09
+372,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-17,5.1.8,11,Google Play,bugs,2025-12
+373,Need video calling feature for visitor verification!,3,2025-08-26,5.2.0,38,App Store,feature_request,2025-08
+374,Should add delivery tracking with photos. Very needed!,3,2026-01-12,5.1.5,34,Google Play,feature_request,2026-01
+375,Missing guest pre-approval feature. Please add!,3,2025-11-29,5.1.5,23,App Store,feature_request,2025-11
+376,Very useful for tracking deliveries and guests. Security is improved.,5,2025-11-08,5.1.5,5,App Store,security,2025-11
+377,Good app for community living. Staff coordination is better now.,4,2026-01-21,5.2.0,41,App Store,community,2026-01
+378,Payment issues! Getting charged twice for subscription.,1,2026-01-13,5.1.8,4,Google Play,payment,2026-01
+379,Should add delivery tracking with photos. Very needed!,3,2026-02-05,5.1.5,44,App Store,feature_request,2026-02
+380,Payment issues! Getting charged twice for subscription.,1,2026-01-10,5.2.1,46,Google Play,payment,2026-01
+381,Great app for visitor management! QR code feature works smoothly.,5,2025-10-15,5.2.0,5,App Store,visitor_management,2025-10
+382,Good app for community living. Staff coordination is better now.,4,2026-01-30,5.1.8,11,App Store,community,2026-01
+383,Easy to approve visitors from anywhere. Love the notifications!,4,2025-08-29,5.1.5,30,Google Play,visitor_management,2025-08
+384,Payment issues! Getting charged twice for subscription.,1,2026-01-07,5.2.1,8,Google Play,payment,2026-01
+385,Visitor management works but notifications are delayed.,3,2025-09-08,5.1.8,22,App Store,notifications,2025-09
+386,Visitor management works but notifications are delayed.,3,2025-12-26,5.2.0,23,App Store,notifications,2025-12
+387,Payment issues! Getting charged twice for subscription.,1,2025-11-29,5.1.8,24,App Store,payment,2025-11
+388,UI is confusing. Hard to find visitor history.,2,2025-10-30,5.2.0,11,App Store,ui_ux,2025-10
+389,Visitor management works but notifications are delayed.,3,2025-09-27,5.1.8,48,Google Play,notifications,2025-09
+390,Missing guest pre-approval feature. Please add!,3,2025-10-20,5.2.0,39,App Store,feature_request,2025-10
+391,Very useful for tracking deliveries and guests. Security is improved.,5,2025-10-19,5.2.1,50,Google Play,security,2025-10
+392,Payment issues! Getting charged twice for subscription.,1,2025-10-16,5.2.0,15,Google Play,payment,2025-10
+393,Easy to approve visitors from anywhere. Love the notifications!,4,2025-09-19,5.2.0,25,App Store,visitor_management,2025-09
+394,Visitor management works but notifications are delayed.,3,2025-11-24,5.1.5,41,Google Play,notifications,2025-11
+395,Payment issues! Getting charged twice for subscription.,1,2025-12-22,5.1.8,43,Google Play,payment,2025-12
+396,Missing guest pre-approval feature. Please add!,3,2025-10-09,5.2.1,12,App Store,feature_request,2025-10
+397,Easy to approve visitors from anywhere. Love the notifications!,4,2025-12-07,5.2.0,15,Google Play,visitor_management,2025-12
+398,Missing guest pre-approval feature. Please add!,3,2025-10-31,5.1.8,31,App Store,feature_request,2025-10
+399,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-25,5.2.1,4,App Store,notifications,2026-01
+400,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-17,5.2.1,16,App Store,notifications,2025-10
+401,UI is confusing. Hard to find visitor history.,2,2025-10-28,5.1.8,5,Google Play,ui_ux,2025-10
+402,Easy to approve visitors from anywhere. Love the notifications!,4,2025-10-12,5.2.0,28,Google Play,visitor_management,2025-10
+403,Should add delivery tracking with photos. Very needed!,3,2025-08-26,5.2.1,5,Google Play,feature_request,2025-08
+404,Payment issues! Getting charged twice for subscription.,1,2025-10-20,5.1.8,34,App Store,payment,2025-10
+405,Payment issues! Getting charged twice for subscription.,1,2025-11-13,5.1.8,31,Google Play,payment,2025-11
+406,Missing guest pre-approval feature. Please add!,3,2025-09-15,5.1.5,18,App Store,feature_request,2025-09
+407,Payment issues! Getting charged twice for subscription.,1,2025-09-11,5.1.8,43,App Store,payment,2025-09
+408,Good app for community living. Staff coordination is better now.,4,2025-12-28,5.2.0,34,App Store,community,2025-12
+409,Payment issues! Getting charged twice for subscription.,1,2025-09-10,5.1.8,29,App Store,payment,2025-09
+410,Great app for visitor management! QR code feature works smoothly.,5,2025-10-25,5.1.5,4,Google Play,visitor_management,2025-10
+411,Customer support is terrible. No response for days.,1,2026-01-09,5.1.8,18,App Store,staff_helpdesk,2026-01
+412,Payment issues! Getting charged twice for subscription.,1,2025-08-31,5.2.0,9,App Store,payment,2025-08
+413,App is good but crashes sometimes. Fix the bugs please.,3,2025-10-09,5.1.8,45,App Store,bugs,2025-10
+414,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-03,5.2.1,40,App Store,notifications,2026-01
+415,Need video calling feature for visitor verification!,3,2025-12-09,5.2.0,21,Google Play,feature_request,2025-12
+416,Payment issues! Getting charged twice for subscription.,1,2026-01-11,5.2.1,50,App Store,payment,2026-01
+417,Very useful for tracking deliveries and guests. Security is improved.,5,2026-01-19,5.1.5,41,App Store,security,2026-01
+418,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-23,5.2.0,46,Google Play,notifications,2025-09
+419,Missing guest pre-approval feature. Please add!,3,2025-12-06,5.1.5,19,Google Play,feature_request,2025-12
+420,Good app for community living. Staff coordination is better now.,4,2025-11-10,5.2.1,44,Google Play,community,2025-11
+421,Great app for visitor management! QR code feature works smoothly.,5,2025-11-25,5.2.0,19,App Store,visitor_management,2025-11
+422,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-12-22,5.2.0,26,Google Play,bugs,2025-12
+423,Need video calling feature for visitor verification!,3,2025-09-20,5.2.0,42,App Store,feature_request,2025-09
+424,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-23,5.1.5,3,Google Play,visitor_management,2026-01
+425,Great app for visitor management! QR code feature works smoothly.,5,2025-11-07,5.1.8,34,App Store,visitor_management,2025-11
+426,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-10-31,5.2.1,22,Google Play,bugs,2025-10
+427,UI is confusing. Hard to find visitor history.,2,2026-01-08,5.1.8,6,Google Play,ui_ux,2026-01
+428,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-25,5.1.8,19,App Store,bugs,2025-12
+429,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-10,5.2.1,26,Google Play,visitor_management,2026-01
+430,Easy to approve visitors from anywhere. Love the notifications!,4,2025-08-31,5.1.8,26,Google Play,visitor_management,2025-08
+431,Customer support is terrible. No response for days.,1,2025-09-09,5.2.1,5,Google Play,staff_helpdesk,2025-09
+432,UI is confusing. Hard to find visitor history.,2,2025-12-25,5.1.8,16,Google Play,ui_ux,2025-12
+433,Easy to approve visitors from anywhere. Love the notifications!,4,2025-11-24,5.1.5,37,Google Play,visitor_management,2025-11
+434,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-13,5.2.1,47,Google Play,notifications,2025-09
+435,Notifications don't work properly. Missed important visitor approvals.,2,2025-08-31,5.2.0,3,Google Play,notifications,2025-08
+436,Notifications don't work properly. Missed important visitor approvals.,2,2025-11-06,5.2.1,0,Google Play,notifications,2025-11
+437,Good app for community living. Staff coordination is better now.,4,2026-01-19,5.1.5,7,Google Play,community,2026-01
+438,Visitor management works but notifications are delayed.,3,2025-11-28,5.2.0,8,Google Play,notifications,2025-11
+439,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-01-29,5.2.1,45,App Store,bugs,2026-01
+440,Customer support is terrible. No response for days.,1,2025-11-06,5.2.1,18,Google Play,staff_helpdesk,2025-11
+441,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-21,5.2.0,13,App Store,notifications,2026-01
+442,Missing guest pre-approval feature. Please add!,3,2025-09-24,5.1.8,10,App Store,feature_request,2025-09
+443,Great app for visitor management! QR code feature works smoothly.,5,2025-10-04,5.2.1,6,App Store,visitor_management,2025-10
+444,Easy to approve visitors from anywhere. Love the notifications!,4,2026-02-04,5.1.8,13,App Store,visitor_management,2026-02
+445,Great app for visitor management! QR code feature works smoothly.,5,2025-09-08,5.2.1,17,Google Play,visitor_management,2025-09
+446,Too many bugs after latest update. Very slow performance.,1,2025-09-26,5.2.0,31,Google Play,bugs,2025-09
+447,Missing guest pre-approval feature. Please add!,3,2025-10-28,5.1.5,21,Google Play,feature_request,2025-10
+448,Too many bugs after latest update. Very slow performance.,1,2025-10-17,5.1.8,4,Google Play,bugs,2025-10
+449,Payment issues! Getting charged twice for subscription.,1,2025-10-28,5.2.0,9,App Store,payment,2025-10
+450,Visitor management works but notifications are delayed.,3,2025-11-10,5.1.5,43,App Store,notifications,2025-11
+451,Visitor management works but notifications are delayed.,3,2026-01-13,5.1.8,49,Google Play,notifications,2026-01
+452,Too many bugs after latest update. Very slow performance.,1,2025-11-10,5.1.5,49,App Store,bugs,2025-11
+453,App is good but crashes sometimes. Fix the bugs please.,3,2025-10-30,5.1.8,49,Google Play,bugs,2025-10
+454,Payment issues! Getting charged twice for subscription.,1,2025-09-12,5.1.8,9,Google Play,payment,2025-09
+455,Need video calling feature for visitor verification!,3,2025-12-21,5.1.5,39,Google Play,feature_request,2025-12
+456,Easy to approve visitors from anywhere. Love the notifications!,4,2025-09-05,5.2.0,21,Google Play,visitor_management,2025-09
+457,Easy to approve visitors from anywhere. Love the notifications!,4,2025-12-09,5.2.0,30,Google Play,visitor_management,2025-12
+458,Customer support is terrible. No response for days.,1,2025-09-10,5.2.0,40,Google Play,staff_helpdesk,2025-09
+459,Payment issues! Getting charged twice for subscription.,1,2025-10-07,5.2.0,16,Google Play,payment,2025-10
+460,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-08-26,5.2.1,11,App Store,bugs,2025-08
+461,UI is confusing. Hard to find visitor history.,2,2025-12-06,5.1.5,43,App Store,ui_ux,2025-12
+462,Easy to approve visitors from anywhere. Love the notifications!,4,2025-11-26,5.2.1,47,App Store,visitor_management,2025-11
+463,Good app for community living. Staff coordination is better now.,4,2026-01-04,5.1.5,2,Google Play,community,2026-01
+464,Notifications don't work properly. Missed important visitor approvals.,2,2025-10-30,5.2.0,39,App Store,notifications,2025-10
+465,Easy to approve visitors from anywhere. Love the notifications!,4,2026-01-17,5.2.0,8,App Store,visitor_management,2026-01
+466,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-02-12,5.1.5,47,App Store,bugs,2026-02
+467,App crashes frequently. Can't approve visitors when needed urgently!,1,2026-01-20,5.2.1,16,App Store,bugs,2026-01
+468,Customer support is terrible. No response for days.,1,2025-11-15,5.2.1,43,App Store,staff_helpdesk,2025-11
+469,Great app for visitor management! QR code feature works smoothly.,5,2025-11-02,5.2.1,11,App Store,visitor_management,2025-11
+470,App is good but crashes sometimes. Fix the bugs please.,3,2025-11-28,5.2.0,22,Google Play,bugs,2025-11
+471,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-11-02,5.2.0,16,Google Play,bugs,2025-11
+472,Notifications don't work properly. Missed important visitor approvals.,2,2026-01-03,5.2.0,38,App Store,notifications,2026-01
+473,Visitor management works but notifications are delayed.,3,2025-09-16,5.1.5,13,App Store,notifications,2025-09
+474,Great app for visitor management! QR code feature works smoothly.,5,2025-09-21,5.1.5,38,App Store,visitor_management,2025-09
+475,Good app for community living. Staff coordination is better now.,4,2025-12-23,5.2.1,0,Google Play,community,2025-12
+476,Very useful for tracking deliveries and guests. Security is improved.,5,2026-02-01,5.1.5,32,Google Play,security,2026-02
+477,Notifications don't work properly. Missed important visitor approvals.,2,2025-11-16,5.2.1,0,App Store,notifications,2025-11
+478,Very useful for tracking deliveries and guests. Security is improved.,5,2025-11-12,5.1.8,1,Google Play,security,2025-11
+479,Customer support is terrible. No response for days.,1,2026-01-01,5.2.1,4,Google Play,staff_helpdesk,2026-01
+480,Need video calling feature for visitor verification!,3,2025-12-27,5.2.0,18,App Store,feature_request,2025-12
+481,Too many bugs after latest update. Very slow performance.,1,2025-09-04,5.2.0,46,Google Play,bugs,2025-09
+482,Customer support is terrible. No response for days.,1,2025-09-21,5.2.0,24,Google Play,staff_helpdesk,2025-09
+483,Customer support is terrible. No response for days.,1,2025-12-13,5.1.8,35,Google Play,staff_helpdesk,2025-12
+484,Missing guest pre-approval feature. Please add!,3,2025-12-10,5.2.0,28,Google Play,feature_request,2025-12
+485,Visitor management works but notifications are delayed.,3,2026-01-10,5.1.5,11,Google Play,notifications,2026-01
+486,Great app for visitor management! QR code feature works smoothly.,5,2025-08-21,5.1.8,42,Google Play,visitor_management,2025-08
+487,Notifications don't work properly. Missed important visitor approvals.,2,2025-09-28,5.1.8,3,Google Play,notifications,2025-09
+488,UI is confusing. Hard to find visitor history.,2,2025-11-11,5.1.5,30,App Store,ui_ux,2025-11
+489,Missing guest pre-approval feature. Please add!,3,2025-10-19,5.1.5,25,App Store,feature_request,2025-10
+490,Customer support is terrible. No response for days.,1,2025-12-18,5.1.5,27,Google Play,staff_helpdesk,2025-12
+491,Should add delivery tracking with photos. Very needed!,3,2025-10-17,5.1.5,1,Google Play,feature_request,2025-10
+492,App crashes frequently. Can't approve visitors when needed urgently!,1,2025-08-28,5.1.5,15,Google Play,bugs,2025-08
+493,Great app for visitor management! QR code feature works smoothly.,5,2025-08-30,5.2.1,30,Google Play,visitor_management,2025-08
+494,Good app for community living. Staff coordination is better now.,4,2025-09-21,5.1.8,29,Google Play,community,2025-09
+495,App is good but crashes sometimes. Fix the bugs please.,3,2025-12-16,5.2.0,44,App Store,bugs,2025-12
+496,UI is confusing. Hard to find visitor history.,2,2025-11-01,5.1.8,50,App Store,ui_ux,2025-11
+497,Missing guest pre-approval feature. Please add!,3,2025-11-10,5.2.0,29,App Store,feature_request,2025-11
+498,Easy to approve visitors from anywhere. Love the notifications!,4,2025-11-28,5.2.0,12,App Store,visitor_management,2025-11
+499,Good app for community living. Staff coordination is better now.,4,2025-10-11,5.2.0,40,App Store,community,2025-10
+500,Too many bugs after latest update. Very slow performance.,1,2025-12-16,5.1.8,18,Google Play,bugs,2025-12
