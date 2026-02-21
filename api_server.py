@@ -1,12 +1,23 @@
 from fastapi import FastAPI
 from review_engine import generate_answer
 import pandas as pd
+from pydantic import BaseModel
+
+
 
 app = FastAPI()
 
 @app.get("/")
 def health():
     return {"status": "running"}
+
+class QuestionRequest(BaseModel):
+    question: str
+
+@app.post("/ask")
+def ask_question(request: QuestionRequest):
+    result = generate_answer(request.question)
+    return result
 
 @app.get("/daily-summary")
 def daily_summary():
