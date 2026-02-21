@@ -2,6 +2,6 @@ fastapi
 uvicorn
 pandas
 numpy
-python-dotenv
+scikit-learn
 google-generativeai
-
+python-dotenv
